@@ -6,14 +6,31 @@ body, img, div, a, p {
 body {
     margin: 0px;
     background: #000000 url("../img/background.png") repeat;
+    color: white;
 }
 
-#navbar a:link {
-    color: #F09000;
+footer {
+    background: #5E584F;
+    padding: 4px;
+    font-weight: 400;
+    font-size: 10px;
 }
 
-#navbar a:visited {
+#navbar {
+    background: #5E584F;
+    padding: 4px;
+}
+
+a:link {
     color: #F09000;
+    text-decoration: none;
+    font-weight: 525;
+}
+
+a:visited {
+    color: #F09000;
+    text-decoration: none;
+    font-weight: 525;
 }
 
 #content {
@@ -22,7 +39,7 @@ body {
 
 #pageConstraint {
     width: 698px;
-    background: white;
+    background: #3C3831;
     margin-left: auto;
     margin-right: auto;
 }
