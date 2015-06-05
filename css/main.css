@@ -1,3 +1,28 @@
+body, img, div, a, p {
+    margin: 0px;
+    padding: 0px;
+}
+
+body {
+    margin: 0px;
+    background: #000000 url("../img/background.png") repeat;
+}
+
+#navbar a:link {
+    color: #F09000;
+}
+
+#navbar a:visited {
+    color: #F09000;
+}
+
+#content {
+    padding: 4px;
+}
+
 #pageConstraint {
     width: 698px;
+    background: white;
+    margin-left: auto;
+    margin-right: auto;
 }

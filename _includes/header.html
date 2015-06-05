@@ -1,10 +1,12 @@
 <header>
   <div id="pageConstraint">
-    <img src="{{ site.baseurl }}/img/vds-mainlogo.jpg">Site Logo</img>
-        {% for page in site.pages %}
-          {% if page.title %}
-          <a class="page-link" href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a>
-          {% endif %}
-        {% endfor %}
+    <img src="{{ site.baseurl }}/img/vds-mainlogo.jpg"></img>
+    <div id="navbar">
+      {% for page in site.pages %}
+      {% if page.title %}
+      <a class="page-link" href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a>
+      {% endif %}
+      {% endfor %}
+      </div>
   </div>
 </header>
