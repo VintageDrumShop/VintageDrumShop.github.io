@@ -1,8 +1,8 @@
 <header>
   <div id="pageConstraint">
-    <img src="{{ site.baseurl }}/img/vds-mainlogo.png" />
+    <img src="{{ site.baseurl }}/img/vds-mainlogo.png" / class="orangeBorder">
     <div id="navbar">
-      <a href="{{ site.baseurl }}">Home</a>
+      <a href="{% if site.baseurl %}{{ site.baseurl }}{% else %}/{% endif %}">Home</a>
       {% for page in site.pages %}
       {% if page.title %}
       <a href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a>

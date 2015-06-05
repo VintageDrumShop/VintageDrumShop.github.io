@@ -5,7 +5,7 @@ body, img, div, a {
 
 body {
     margin: 0px;
-    background: #000000 url("../img/background.png") repeat;
+    background: #000000 url("../img/background.gif") repeat;
     color: white;
 }
 
@@ -43,8 +43,13 @@ a:visited {
 }
 
 #pageConstraint {
-    width: 698px;
+    width: 702px;
     background: #3C3831;
     margin-left: auto;
     margin-right: auto;
+}
+
+.orangeBorder {
+    border: 2px solid;
+    border-color: #F09000;
 }
