@@ -4,8 +4,6 @@ title: About
 permalink: /about/
 ---
 
-#JOHN M. ALDRIDGE ENGRAVING
-
 A little more than 20 years ago, John Aldridge's love affair with vintage drums, and especially Ludwig Black Beauties from the early 1920's, led him to learn a skill that had virtually disappeared from the drum world for the previous 50 years. Upon discovering that purchasing an engraved drum from the 1920s was completely outside his monetary limits, John set out to learn how to engrave with the intention of taking a standard model 20's Ludwig snare and plating and engraving it to turn it into a black beauty. Although he asked several jewelry engravers to teach him how to engrave, none believed that he would stay with it long enough to make it worthwhile to spend their time teaching him. After many visits to his shop, an elderly gentleman working in a jewelry shop in Claremore, Oklahoma gave John a ten minute demonstration of the three basic strokes and the tools that were used to produce the patterns that John wanted to duplicate from a 1923 Ludwig DeLuxe model snare drum. Taking that brief lesson and a note telling him where he could purchase the small blades and wooden handles used in the process, John embarked on his quest to learn how to engrave by himself. He could hear the old engraver chuckling to his son as he walked out the door!
 
 Twenty years and literally hundreds of drums later, it's safe to say that John has "stuck with it". Widely recognized as the person most responsible for re-introducing engraving to the drum world and an established authority on the subject of engraved drums of the past, John continues to engrave in the same style and with the same methods that were used at the end of the 19th century.
