@@ -49,6 +49,28 @@ a:visited {
     margin-right: auto;
 }
 
+#landing {
+    padding: auto;
+    text-align: center;
+}
+
+#landing ul {
+    list-style-type: none;
+    display: inline-block;
+    vertical-align: middle;
+    padding: 0px;
+    margin: 0px;
+}
+
+#landing li {
+    border: 1px solid;
+    color: #BB983A;
+}
+
+#landing p {
+    text-align: center;
+}
+
 .orangeBorder {
     border: 2px solid;
     border-color: #F09000;
