@@ -65,6 +65,8 @@ a:visited {
 #landing li {
     border: 1px solid;
     color: #BB983A;
+    margin: 2px;
+    padding: 0px;
 }
 
 #landing p {
