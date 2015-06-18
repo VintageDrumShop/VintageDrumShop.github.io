@@ -2,7 +2,7 @@
   <div id="pageConstraint">
     <img src="{{ site.baseurl }}/img/vds-mainlogo.jpg" / class="orangeBorder">
     <div id="navbar">
-      <a href="{% if site.baseurl %}{{ site.baseurl }}{% else %}/{% endif %}">Home</a>
+      <a href="{% if site.baseurl == '' %}/{% else %}{{ site.baseurl }}{% endif %}">Home</a>
       {% for page in site.pages %}
       {% if page.title %}
       <a href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a>
