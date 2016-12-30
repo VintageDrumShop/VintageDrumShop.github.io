@@ -1,6 +1,6 @@
 # Site settings
 title: Vintage Drum Shop
-description: Vintage hand engraved drums by John Aldridge"
+description: "Vintage hand engraved drums by John Aldridge"
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://www.vintagedrumshop.com" # the base hostname & protocol for your site
 
